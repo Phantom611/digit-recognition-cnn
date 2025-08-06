@@ -48,6 +48,9 @@ streamlit run digit_app.py
 ```
 ---
 
+---
+
+
 # 🧠 Model Architecture
 
 - Conv2D with 32 filters (3x3), ReLU
