@@ -33,14 +33,20 @@ This is a deep learning project that uses a Convolutional Neural Network (CNN) t
 ```bash
 git clone https://github.com/Phantom611/digit-recognition-cnn.git
 cd digit-recognition-cnn
+```
 
 ### 2. Install Requirements
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the Streamlit App
 
+```bash
 streamlit run digit_app.py
+```
+---
 
 # 🧠 Model Architecture
 
@@ -51,6 +57,8 @@ streamlit run digit_app.py
 - Flatten + Dense(128) with ReLU
 - Dropout(0.3)
 - Dense(10) with Softmax activation
+
+---
 
 🧪 Results
 
