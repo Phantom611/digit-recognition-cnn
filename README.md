@@ -71,6 +71,6 @@ streamlit run digit_app.py
 ---
 
 🙋‍♂️ Author
--Mayank Pahade
--AI/ML Enthusiast | Open to collaboration
--📧 LinkedIn | 📫 https://www.linkedin.com/in/mayank-pahade-920956209/
+Mayank Pahade
+- AI/ML Enthusiast | Open to collaboration
+- 📧 LinkedIn | 📫 https://www.linkedin.com/in/mayank-pahade-920956209/
