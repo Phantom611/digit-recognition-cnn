@@ -70,7 +70,7 @@ streamlit run digit_app.py
 
 ---
 
-📬 Contact
-
-Created by Mayank Pahade
-Feel free to reach out or fork this project to improve it!
+🙋‍♂️ Author
+Mayank Pahade
+AI/ML Enthusiast | Open to collaboration
+📧 LinkedIn | 📫 https://www.linkedin.com/in/mayank-pahade-920956209/
