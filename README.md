@@ -68,6 +68,8 @@ streamlit run digit_app.py
 | Validation Acc. | \~98% |
 | Test Acc.       | \~98% |
 
+---
+
 📬 Contact
 
 Created by Mayank Pahade
